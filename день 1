@@ -1,0 +1,7 @@
+winget install --id Git.Git -e --accept-source-agreements --accept-package-agreements
+git config --global user.name "Твоё Имя"
+git config --global user.email "твой@email"
+cd "C:\Users\ttopn\Documents\Проект по умолчанию\ai-lab"
+git init
+git add .
+git commit -m "День 1: каркас ai-lab"
