@@ -1,0 +1,34 @@
+# Секреты
+.env
+.env.*
+!.env.example
+*.key
+secrets.json
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Данные и артефакты
+data/
+*.db
+*.sqlite3
+*.parquet
+*.csv
+!sample.csv
+models/
+*.gguf
+logs/
+*.log
+
+# Редакторы
+.vscode/
+.idea/
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/

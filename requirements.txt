@@ -1,0 +1,9 @@
+# Минимум на первую неделю
+python-dotenv
+requests
+
+# Появится позже — раскомментируй, когда дойдёшь
+# openai
+# anthropic
+# google-genai
+# pydantic
